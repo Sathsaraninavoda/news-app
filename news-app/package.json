@@ -1,0 +1,28 @@
+{
+  "name": "news-app",
+  "version": "1.0.0",
+  "description": "A simple NewsAPI web application with Node.js backend and HTML/CSS/JavaScript frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "news",
+    "api",
+    "express",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.2",
+    "cors": "^2.8.5"
+  }
+}
+
+
+
+
